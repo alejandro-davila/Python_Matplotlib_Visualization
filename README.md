@@ -17,11 +17,11 @@ The executive team has tasked you with generating all of the tables and figures 
 
 Here is a full detailed .ipynb file to support my findings along with the raw data files:
 
-[pymaceuticals_starter.ipynb](/Users/Alejandrodavila/Desktop/GitHub_Repositories/Matplotlib_Module5/Pymaceuticals)
+[pymaceuticals_starter.ipynb](Pymaceuticals/pymaceuticals_starter.ipynb)
 
-[study_results.csv](/Users/Alejandrodavila/Desktop/GitHub_Repositories/Matplotlib_Module5/Pymaceuticals/data)
+[study_results.csv](Pymaceuticals/data/Study_results.csv)
 
-[mouse_metadata.csv](/Users/Alejandrodavila/Desktop/GitHub_Repositories/Matplotlib_Module5/Pymaceuticals/data)
+[mouse_metadata.csv](Pymaceuticals/data/Mouse_metadata.csv)
 
 Below is a summary of the key findings from the analysis:
 
